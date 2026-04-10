@@ -32,9 +32,9 @@ export default function DashboardLayout({ children }) {
 
   return (
     <ToastProvider>
-      <div className="min-h-screen bg-surface-50 gradient-mesh">
+      <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-black text-white">
         <Sidebar />
-        <main className="lg:ml-64 min-h-screen pb-20 lg:pb-0">
+        <main className="lg:ml-64 min-h-screen p-6 pb-20 lg:pb-0">
           {children}
         </main>
       </div>
