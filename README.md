@@ -34,6 +34,10 @@ ReviewFlow AI helps businesses:
 - Improve communication efficiency  
 
 ---
+## 🔄 System Workflow
+
+![ReviewFlow AI Process](./public/images/reviewflow-process.png)
+
 
 ## ✨ Features
 
