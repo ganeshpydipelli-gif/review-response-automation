@@ -1,55 +1,73 @@
-# 🚀 Review Response Automation
+# 🚀 ReviewFlow AI
 
-An AI-powered web application that helps businesses automatically generate smart, tone-aware responses to customer reviews.
+AI-powered review response automation for businesses.
+
+👉 Turn customer feedback into engagement instantly.
+
+---
+
+## 🌐 Live Demo
+
+https://reviewflowapp.vercel.app  
+Login: https://reviewflowapp.vercel.app/login
 
 ---
 
 ## 🎯 Problem
 
 Businesses often fail to respond to customer reviews consistently, which leads to:
-- Poor brand perception
-- Reduced customer trust
-- Lower local SEO rankings
+
+- Poor brand perception  
+- Reduced customer trust  
+- Lower local SEO rankings  
 
 ---
 
 ## 💡 Solution
 
-This application:
-- Analyzes customer reviews using sentiment analysis
-- Generates human-like AI responses
-- Allows users to approve, edit, or regenerate responses
-- Learns user preferences over time
+ReviewFlow AI helps businesses:
+
+- Analyze customer reviews using sentiment analysis  
+- Generate human-like AI responses instantly  
+- Customize tone (friendly, professional, apologetic)  
+- Approve, edit, or regenerate responses  
+- Improve communication efficiency  
 
 ---
 
 ## ✨ Features
 
-- 🔐 User Authentication
-- 📊 Review Dashboard
-- 🧠 Sentiment Analysis (Positive / Neutral / Negative)
-- 🤖 AI Response Generation (Tone-based)
-- ✏️ Edit / Approve / Regenerate responses
-- 🧩 Smart Learning Engine
-- 📈 Analytics (basic)
+- 🔐 User Authentication  
+- 📊 Review Dashboard  
+- 🧠 Sentiment Analysis (Positive / Neutral / Negative)  
+- 🤖 AI Response Generation (Tone-based)  
+- ✏️ Edit / Approve / Regenerate responses  
+- 📈 Basic Analytics  
 
 ---
 
 ## 🛠 Tech Stack
 
-- Frontend: Next.js + Tailwind CSS
-- Backend: API Routes / Supabase
-- AI: OpenAI API
-- Database: Supabase (PostgreSQL)
-
----
+- Frontend: Next.js + Tailwind CSS  
+- State Management: React Context API  
+- AI: OpenAI API  
+- Deployment: Vercel  
 
 ## 🎨 Use Cases
 
-- Restaurants 🍽️
-- Clinics 🏥
-- Salons 💇
-- Small businesses
+- Restaurants 🍽️  
+- Clinics 🏥  
+- Salons 💇  
+- Small businesses  
+
+---
+
+## 🔮 Future Improvements
+
+- Google Reviews API integration  
+- Auto-publish responses  
+- Multi-language support  
+- Database integration (Supabase/Firebase)  
 
 ---
 
